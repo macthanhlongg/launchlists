@@ -1,16 +1,16 @@
 [{
-  "chainId": 31337,
-  "saleManagerAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
-  "saleId": "0xe771b1e18f058577ff08390172412402d3de360f8ce3e890036c670e7ed54d81",
-  "saleName": "Tokensoft Example Sale",
-  "logo": "https://example.com/icon.png",
+  "chainId": 3,
+  "saleManagerAddress": "0xE0542Ec7927B578d122652Cd0432CEa9C5f314b2",
+  "saleId": "0x2558fa101d0d2c0d374ede2df6c656e8ca7c2522e930b2a1b22b4124f9e6c102",
+  "saleName": "Jackie Tokensoft Sale",
+  "logo": "https://cdn.discordapp.com/attachments/407800268579930112/974028258515497010/photo_2022-05-12_02-18-51.jpg",
   "favicon": "https://example.com/favicon.ico",
-  "projectWebsite": "https://example.com",
+  "projectWebsite": "https://jackie.com",
   "hidden": false,
   "purchaseDocumentsGenerated": false,
   "saleDescription": "A sale of Example Tokens to our community on date for purpose at price. Use this example sale as a guide when configuring your own sale",
   "socials": {
-    "twitter": "https://twitter.com/example"
+    "twitter": "https://twitter.com/LongV78159142"
   },
   "documents": [{
     "name": "Terms and Conditions",
